@@ -29,7 +29,7 @@ Clone o repositório para sua máquina local:
    * `git clone git@github.com:gemaquejr/html-landing-page.git`.
 
 Entre na pasta do repositório que você acabou de clonar:
-   * `cd html-landing-page`
+   * `cd html-game-detona-ralph`
    * `Abra o arquivo index.html em seu navegador web`
 
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
